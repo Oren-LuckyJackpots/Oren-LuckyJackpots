@@ -3,8 +3,8 @@ Oren-LuckyJackpots/Oren-LuckyJackpots is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 welcome to my github page :3
-- im fnf mod coder
-- age 15
+- im fnf mod coder, artist n musician
+- male
 - japanese
 
 Haxe, Lua
